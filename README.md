@@ -4,7 +4,7 @@
 
 본 프로젝트는 서울과학기술대학교 적정기술 사회봉사 프로그램 **슈퍼로컬 프로젝트**의 지원을 받아 진행되었습니다.   🎥 [유투브](https://www.youtube.com/watch?v=PNk0jNRVqwc)
 
-<img src="assets/device.png" alt="Device Picture" width="200">
+<img src="assets/device.png" alt="Device Picture" width="250">
 
 ### 적정기술
 적정기술은 지역의 환경, 사회적 조건, 사용자의 상황에 맞춰 실제 도움이 되는 기술을 의미한다. 비용은 저렴하고 사용법은 간단하여, 필요한 사람이 직접 활용할 수 있도록 만드는 것이 핵심이다.

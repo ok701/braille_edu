@@ -25,4 +25,4 @@
 
 이를 통해 점자 교육의 접근성을 높이고, 점자 문맹률을 줄이는 것을 목표로 한다.
 
-<img src="assets/main-algorithm-diagram.jpg" alt="Main Algorithm Diagram" width="500">
+<img src="assets/main-algorithm-diagram.jpg" alt="Main Algorithm Diagram" width="700">

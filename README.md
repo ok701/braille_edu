@@ -1,12 +1,14 @@
 
 # 점자교육기기
-**Project Date :** September 2021 
+**Project Date :** September 2021
+
+본 프로젝트는 서울과학기술대학교 적정기술 사회봉사 프로그램 **슈퍼로컬 프로젝트**의 지원을 받아 진행되었습니다.   🎥 [유투브](https://www.youtube.com/watch?v=PNk0jNRVqwc)
 
 <img src="assets/device.png" alt="Device Picture" width="300">
 
-본 프로젝트는 서울과학기술대학교 적정기술 사회봉사 프로그램 **‘슈퍼로컬 프로젝트’**의 지원을 받아 진행되었습니다.  
 
-🎥 [유투브](https://www.youtube.com/watch?v=PNk0jNRVqwc)
+
+
 
 
 ### 적정기술
@@ -21,7 +23,7 @@
 - 점자 교재가 **제한적임**  
 - 보호자가 점자를 몰라 **가정에서 학습 지원이 어려움**  
 
-## 프로젝트 개요
+### 프로젝트 개요
 이러한 문제를 해결하기 위해 **언제 어디서나 가족과 함께 점자를 학습할 수 있는 점자 교육 보조기술**을 개발한다.
 
 - 점자 읽기·쓰기 연습을 지원하는 기기  
@@ -30,5 +32,4 @@
 
 이를 통해 점자 교육의 접근성을 높이고, 점자 문맹률을 줄이는 것을 목표로 한다.
 
-### 알고리즘
 <img src="assets/main-algorithm-diagram.jpg" alt="Main Algorithm Diagram" width="500">
